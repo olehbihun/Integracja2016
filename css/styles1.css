@@ -1,0 +1,35 @@
+smartphones{
+	padding: 10px 5%;
+	display: block;
+    background: #a59ca9;;
+    border-color: #3a173d;
+}
+smartphone{
+	display: flex;
+  background: #f2dede;
+  border-color: #b94a48;
+	background-color: #f7f7f7;
+	-moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+}
+id, name, code, os, colour, processor, dimensions, display, ringtones, camera, sim_standarts  {
+	text-align: center;
+	width: 10%;
+	border: 1px solid #cecbcb;
+	font-size: 18px;
+	word-wrap: break-word;
+	border-left: 0;
+	padding: 1px;
+}
+smartphones smartphone:hover{
+	background-color: #636382 !important;
+	color: #fffbfb;
+	cursor: pointer;
+}
+smartphones smartphone:nth-child(odd){
+  background-color: rgba(110, 210, 137, 0.68);
+}
+id {
+	border-left: 1px solid #cecbcb;
+}

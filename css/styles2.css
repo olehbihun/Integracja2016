@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+smartphones{
+	padding: 5% 5%;
+	display: block;
+    background: white;
+    border-color: #3a87ad;
+    font-family: 'Open Sans', sans-serif;
+}
+smartphone{
+	display: flex;
+  background: #f2dede;
+  border-color: #b94a48;
+	background-color: #f7f7f7;
+
+	-moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -webkit-transition: all 0.5s ease-out;
+
+}
+id, name, code, os, colour, processor, dimensions, display, ringtones, camera, sim_standarts  {
+
+	width: 10%;
+	border: 1px solid #cecbcb;
+	font-size: 10px;
+	word-wrap: break-word   ;
+	border-left: 0;
+	padding: 1px;
+  text-align: center;  
+}
+
+smartphones smartphone:hover{
+	background-color: #1a6f6c !important
+	color: #fffbfb;
+	cursor: pointer;
+}
+smartphones smartphone:focus{
+	background-color: red !important;
+}
+
+smartphones smartphone:nth-child(even){
+  background-color: rgba(59, 70, 62, 0.68);
+}
+
+id {
+  word-wrap:normal; !important;
+	border-left: 1px solid #cecbcb;
+}

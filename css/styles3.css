@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+smartphones{
+	padding: 1% 5%;
+	display: block;
+    border-color: #3a87ad;
+    font-family: 'Raleway', sans-serif;
+}
+smartphone{
+	display: flex;
+  background: #f2dede;
+  border-color: #b94a48;
+	background-color: #f7f7f7;
+
+	-moz-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+
+}
+id, name, code, os, colour, processor, dimensions, display, ringtones, camera, sim_standarts {
+
+	width: 10%;
+	border: 1px solid #cecbcb;
+	font-size: 12px;
+	word-wrap: break-word;
+	border-left: 0;
+	padding: 1px;
+  text-align: center;
+}
+
+smartphones smartphone:hover{
+	background-color: rgba(173, 57, 57, 0.52) !important;
+	color: #fffbfb;
+	cursor: pointer;
+}
+
+smartphones smartphone:nth-child(odd){
+  background-color: rgba(141, 210, 137, 0.68);
+}
+
+id {
+  word-wrap:normal; !important;
+	border-left: 1px solid #cecbcb;
+}
