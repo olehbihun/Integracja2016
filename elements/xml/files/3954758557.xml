@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="http://integracja.u464.indigo.elastictech.org/elements/xml/files/3954758557_styles1.css"?>
+<smartphones>
+  <smartphone>
+    <id>1170</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Keneksi S9 Black&amp;nbsp;</name>
+    <os>&#x414;&#x440;&#x443;&#x433;&#x430;&#x44F;</os>
+    <colour>2&#x445;</colour>
+    <processor>118 x 49 x 11 &#x43C;&#x43C;, 89 &#x433;</processor>
+    <dimensions>&#x41A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</dimensions>
+    <display>2.4" TN &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 240 x 320  &#x41A;&#x43E;&#x43B;&#x438;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43E; &#x446;&#x432;&#x435;&#x442;&#x43E;&#x432;: 65000</display>
+    <ringtones>&#x412;&#x438;&#x431;&#x440;&#x43E;&#x432;&#x44B;&#x437;&#x43E;&#x432; &#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; MP3 &#x432; &#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430;</ringtones>
+    <camera>1.3 &#x41C;&#x43F;  &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435; &#x444;&#x43E;&#x442;&#x43E;: 1280 x 960 &#x43F;&#x438;&#x43A;&#x441;&#x435;&#x43B;&#x435;&#x439; &#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x432;&#x438;&#x434;&#x435;&#x43E; &#x412;&#x441;&#x43F;&#x44B;&#x448;&#x43A;&#x430;</camera>
+    <sim_standarts>GSM 900 / 1800 &#x41C;&#x413;&#x446;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1171</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Doogee Y100 Plus White&amp;nbsp;</name>
+    <os>Android</os>
+    <colour>2&#x445;</colour>
+    <processor>&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x445;&#x44A;&#x44F;&#x434;&#x435;&#x440;&#x43D;&#x44B;&#x439; MediaTek MT6735 (1.0 &#x413;&#x413;&#x446;)</processor>
+    <dimensions>152 &#x445; 74 &#x445; 8.5 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 170 &#x433;</dimensions>
+    <display>&#x421;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</display>
+    <ringtones>5.5" IPS, &#x435;&#x43C;&#x43A;&#x43E;&#x441;&#x442;&#x43D;&#x44B;&#x439;, Multi-Touch &#x42D;&#x43A;&#x440;&#x430;&#x43D; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D; &#x43F;&#x43E; &#x442;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x438; 2.5D &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 1280&#x445;720 &#x43F;&#x438;&#x43A;&#x441;&#x435;&#x43B;&#x435;&#x439; Corning Gorilla Glass</ringtones>
+    <camera>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; &#x41C;P3 &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;</camera>
+    <sim_standarts>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;: Sony IMX219 Exmor RS  8 &#x41C;&#x43F;, &#x441; &#x438;&#x43D;&#x442;&#x435;&#x440;&#x43F;&#x43E;&#x43B;&#x44F;&#x446;&#x438;&#x435;&#x439; &#x434;&#x43E; 13 &#x41C;&#x43F; &#x410;&#x43F;&#x435;&#x440;&#x442;&#x443;&#x440;&#x430;: &#x192;/2.0 &#x410;&#x432;&#x442;&#x43E;&#x444;&#x43E;&#x43A;&#x443;&#x441; LED-&#x432;&#x441;&#x43F;&#x44B;&#x448;&#x43A;&#x430; &#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F;: OmniVision 5 &#x41C;&#x43F;, &#x441; &#x438;&#x43D;&#x442;&#x435;&#x440;&#x43F;&#x43E;&#x43B;&#x44F;&#x446;&#x438;&#x435;&#x439; &#x434;&#x43E; 8 &#x41C;&#x43F; &#x423;&#x433;&#x43E;&#x43B; &#x43E;&#x431;&#x437;&#x43E;&#x440;&#x430;: 69&#xB0;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1172</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Lenovo A Plus (A1010a20) White&amp;nbsp;</name>
+    <os>Android</os>
+    <colour>2&#x445;</colour>
+    <processor>&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x445;&#x44A;&#x44F;&#x434;&#x435;&#x440;&#x43D;&#x44B;&#x439; MediaTek MT6580M (1.3 &#x413;&#x413;&#x446;)</processor>
+    <dimensions>133 x 66 x 9.9 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 146 &#x433;</dimensions>
+    <display>&#x421;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</display>
+    <ringtones>4.5" TN, &#x441;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x435;&#x43C;&#x43A;&#x43E;&#x441;&#x442;&#x43D;&#x44B;&#x439;, Multitouch &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 480x854 &#x442;&#x43E;&#x447;&#x435;&#x43A; 218 ppi</ringtones>
+    <camera>&#x412;&#x438;&#x431;&#x440;&#x43E;&#x432;&#x44B;&#x437;&#x43E;&#x432; &#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; MP3 &#x432; &#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430;</camera>
+    <sim_standarts>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;: 5 &#x41C;&#x43F;, LED-&#x432;&#x441;&#x43F;&#x44B;&#x448;&#x43A;&#x430; &#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F;: 2 &#x41C;&#x43F;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1173</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Gigabyte GSmart Classic Dark Grey&amp;nbsp;</name>
+    <os>Android</os>
+    <colour>2&#x445;</colour>
+    <processor>&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x445;&#x44A;&#x44F;&#x434;&#x435;&#x440;&#x43D;&#x44B;&#x439; Spreadtrum SC7731 (1.2 &#x413;&#x413;&#x446;)</processor>
+    <dimensions>145 x 73 x 8.6 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 150 &#x433;</dimensions>
+    <display>&#x421;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</display>
+    <ringtones>5" IPS, HD (1280&#x445;720)</ringtones>
+    <camera>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; &#x41C;&#x440;3 &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;</camera>
+    <sim_standarts>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F; 8 &#x41C;&#x43F; &#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; 5 &#x41C;&#x43F; &#x410;&#x432;&#x442;&#x43E;&#x444;&#x43E;&#x43A;&#x443;&#x441; LED-&#x432;&#x441;&#x43F;&#x44B;&#x448;&#x43A;&#x430;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1174</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Caterpillar CAT B25&amp;nbsp;</name>
+    <os>&#x414;&#x440;&#x443;&#x433;&#x430;&#x44F;</os>
+    <colour>2&#x445;</colour>
+    <processor>125 x 55 x 22 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 161 &#x433;</processor>
+    <dimensions>&#x41A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</dimensions>
+    <display>2.0" TFT &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 320 &#x445; 240 &#x43F;&#x438;&#x43A;&#x441;</display>
+    <ringtones>&#x412;&#x438;&#x431;&#x440;&#x43E;&#x432;&#x44B;&#x437;&#x43E;&#x432; &#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438;</ringtones>
+    <camera>2.0 &#x41C;&#x43F; &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 1600 &#x445; 1200 &#x43F;&#x438;&#x43A;&#x441; &#x412;&#x438;&#x434;&#x435;&#x43E;&#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;</camera>
+    <sim_standarts>GSM 850/900/1800/1900 &#x41C;&#x413;&#x446;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1175</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Nokia 105 Black&amp;nbsp;</name>
+    <os>&#x414;&#x440;&#x443;&#x433;&#x430;&#x44F;</os>
+    <colour>&#x41D;&#x435;&#x442;</colour>
+    <processor>107 &#x445; 44.8 &#x445; 14.3 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 70 &#x433;</processor>
+    <dimensions>&#x41A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</dimensions>
+    <display>1.4" (128 x 128)</display>
+    <ringtones>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x44F; &#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;</ringtones>
+    <camera>&#x41E;&#x442;&#x441;&#x443;&#x442;&#x441;&#x442;&#x432;&#x443;&#x435;&#x442;</camera>
+    <sim_standarts>GSM: 1800 / 900</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1176</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Astro A177 Black&amp;nbsp;</name>
+    <os>&#x414;&#x440;&#x443;&#x433;&#x430;&#x44F;</os>
+    <colour>2&#x445;</colour>
+    <processor>111 x 47 x 15 &#x43C;&#x43C; &#x412;&#x435;&#x441;: 60 &#x433;</processor>
+    <dimensions>&#x41A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</dimensions>
+    <display>1.77" TFT &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 176 x 220 &#x442;&#x43E;&#x447;&#x435;&#x43A;</display>
+    <ringtones>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; &#x41C;P3 &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;</ringtones>
+    <camera>&#x424;&#x43E;&#x442;&#x43E;/&#x432;&#x438;&#x434;&#x435;&#x43E; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430; 0.08 &#x41C;&#x43F;</camera>
+    <sim_standarts>GSM 900 / 1800 &#x41C;&#x413;&#x446;</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1177</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Astro A180 RX Black/Orange&amp;nbsp;</name>
+    <os>&#x414;&#x440;&#x443;&#x433;&#x430;&#x44F;</os>
+    <colour>2&#x445;</colour>
+    <processor>118 x 52 x 19 &#x43C;&#x43C;, 95 &#x433;</processor>
+    <dimensions>&#x41A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</dimensions>
+    <display>&#x426;&#x432;&#x435;&#x442;&#x43D;&#x43E;&#x439; LCD 1.77, 128 x 160 &#x442;&#x43E;&#x447;&#x435;&#x43A;</display>
+    <ringtones>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x44F; 64-&#x442;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F;</ringtones>
+    <camera>&#x424;&#x43E;&#x442;&#x43E;/&#x432;&#x438;&#x434;&#x435;&#x43E; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430; 0.08 &#x41C;&#x43F;</camera>
+    <sim_standarts>GSM 850 / 900 / 1800 / 1900</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1178</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; Asus ZenFone Laser 8GB (ZE500KG) Pure Black + &#x43A;&#x430;&#x440;&#x442;&#x430; &#x43F;&#x430;&#x43C;&#x44F;&#x442;&#x438; 32&#x433;&#x431;!&amp;nbsp;</name>
+    <os>Android</os>
+    <colour>2&#x445;</colour>
+    <processor>&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x445;&#x44A;&#x44F;&#x434;&#x435;&#x440;&#x43D;&#x44B;&#x439; Qualcomm MSM8916 Snapdragon 410 (1.2 &#x413;&#x413;&#x446;)</processor>
+    <dimensions>143.7 x 71.5 x 3.5 ~ 10.5 &#x43C;&#x43C;  &#x412;&#x435;&#x441;: 140 &#x433;</dimensions>
+    <display>&#x421;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</display>
+    <ringtones>5" (1280 x 720), TFT, Multi-touch  Corning Gorilla Glass 4</ringtones>
+    <camera>&#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;  &#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430; MP3 &#x432; &#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430;</camera>
+    <sim_standarts>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;: 8 &#x41C;&#x43F; &#x41B;&#x430;&#x437;&#x435;&#x440;&#x43D;&#x44B;&#x439; &#x430;&#x432;&#x442;&#x43E;&#x444;&#x43E;&#x43A;&#x443;&#x441; &#x414;&#x432;&#x443;&#x445;&#x446;&#x432;&#x435;&#x442;&#x43D;&#x430;&#x44F; &#x441;&#x432;&#x435;&#x442;&#x43E;&#x434;&#x438;&#x43E;&#x434;&#x43D;&#x430;&#x44F; &#x432;&#x441;&#x43F;&#x44B;&#x448;&#x43A;&#x430; &#x422;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x44F; PixelMaster &#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;: 5 &#x41C;&#x43F; &#x428;&#x438;&#x440;&#x43E;&#x43A;&#x43E;&#x443;&#x433;&#x43E;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x43E;&#x431;&#x44A;&#x435;&#x43A;&#x442;&#x438;&#x432; &#x422;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x44F; PixelMaster</sim_standarts>
+  </smartphone>
+  <smartphone>
+    <id>1179</id>
+    <name>&#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; LG X style Titan&amp;nbsp;</name>
+    <os>Android</os>
+    <colour>2&#x445;</colour>
+    <processor>&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x445;&#x44A;&#x44F;&#x434;&#x435;&#x440;&#x43D;&#x44B;&#x439; Qualcomm Snapdragon 212 (MSM8909) (1.3 &#x413;&#x413;&#x446;)</processor>
+    <dimensions>144.8 &#x445; 71.4 &#x445; 6.9 &#x43C;&#x43C;</dimensions>
+    <display>&#x421;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43D;&#x43E;&#x431;&#x43B;&#x43E;&#x43A;</display>
+    <ringtones>5" &#x441;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x43D;&#x44B;&#x439;, Multi-Touch &#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;: 1280 x 720 &#x422;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x44F; In-Cell Touch IPS</ringtones>
+    <camera>&#x41F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438; &#x41C;P3 &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x412;&#x438;&#x431;&#x440;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;</camera>
+    <sim_standarts>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;: 8 &#x41C;&#x43F; &#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;: 5 &#x41C;&#x43F;</sim_standarts>
+  </smartphone>
+</smartphones>
